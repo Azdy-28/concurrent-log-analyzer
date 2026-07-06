@@ -1,0 +1,9 @@
+build/
+*.o
+log_parser
+test_tokenizer
+verify_zero_alloc
+*.log
+.cache/
+CMakeFiles/
+CMakeCache.txt
